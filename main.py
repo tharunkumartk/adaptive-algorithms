@@ -1,12 +1,9 @@
-import time
 import random
 import math
 import numpy as np
-from typing import List, Set, Dict, Tuple
+from typing import Tuple
 from collections import defaultdict
 import matplotlib.pyplot as plt
-
-import numpy as np
 
 
 class Graph:
