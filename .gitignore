@@ -13,6 +13,7 @@ venv/
 env/
 .env/
 .venv/
+*.DS_Store
 
 # IDE specific files
 .idea/
